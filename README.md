@@ -73,3 +73,6 @@ export default defineConfig([
 ])
 
 ```
+
+# Site-Corenix
+Desenvolvimento de Site Institucional da Corenix
